@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Test Suite2</name>
+   <name>TestSuite3</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,29 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>fc8ee0dc-6755-4cda-93e9-f87570c366cc</testSuiteGuid>
+   <testSuiteGuid>8d4fa819-42e9-4faa-9d8b-fa5aeee4997f</testSuiteGuid>
    <testCaseLink>
-      <guid>40df1bd9-834a-4f93-8bd6-0190785480b8</guid>
+      <guid>77d414f9-acc3-43d9-bbf4-b28bb964233b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestCase1</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>4f72b107-a934-4248-b15e-dfef8dc7d275</guid>
+      <guid>eb10f11c-e45a-4558-b898-a2844b83145e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestCase2</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>59752af0-6189-4a09-a54f-a1b280cd7aa8</guid>
+      <guid>a1b3a1e5-a162-4c22-a415-d0fb853628be</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestCase3</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b0a91d73-077e-4528-ab73-edb2f697d204</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase4</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
